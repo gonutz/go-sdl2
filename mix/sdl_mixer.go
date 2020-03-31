@@ -39,7 +39,7 @@ package mix
 import "C"
 import "unsafe"
 import "reflect"
-import "github.com/veandco/go-sdl2/sdl"
+import "github.com/gonutz/go-sdl2/sdl"
 
 // Chunk is the internal format for an audio chunk.
 // (https://www.libsdl.org/projects/SDL_mixer/docs/SDL_mixer_85.html)

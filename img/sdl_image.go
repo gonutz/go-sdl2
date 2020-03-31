@@ -6,7 +6,7 @@ package img
 import "C"
 import "unsafe"
 import "errors"
-import "github.com/veandco/go-sdl2/sdl"
+import "github.com/gonutz/go-sdl2/sdl"
 
 // Flags which may be passed to img.Init() to load support of image formats, can be bitwise OR'd together.
 const (

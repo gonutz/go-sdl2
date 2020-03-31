@@ -7,7 +7,7 @@ SET SRCDIR=%CD%
 REM @SET ALLDIRS!=	find ${SRCDIR} -type d -not -path "./.hg*"
 
 REM Packages
-SET ROOTPKG=github.com/veandco/go-sdl2
+SET ROOTPKG=github.com/gonutz/go-sdl2
 SET PACKAGES=sdl img mix ttf
 
 SET GO=go
