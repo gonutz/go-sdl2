@@ -1,3 +1,0 @@
-[submodule ".go-sdl2-examples"]
-	path = .go-sdl2-examples
-	url = https://github.com/gonutz/go-sdl2-examples
